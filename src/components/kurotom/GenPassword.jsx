@@ -190,8 +190,8 @@ export const GenerarPassword = () => {
 				</div>
 			</div>
 
-			<div id='btn'>
-				<button id='btn-button' onClick={proceso}>
+			<div id='kurotom-btn'>
+				<button id='kurotom-btn-button' onClick={proceso}>
 					Generate
 				</button>
 			</div>
